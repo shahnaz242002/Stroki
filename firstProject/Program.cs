@@ -7,4 +7,4 @@ double aksia3 = vklad * 10 / 100;
 Console.WriteLine(aksia1);
 Console.WriteLine(aksia2);
 Console.WriteLine(aksia3);
-Console.WriteLine(aksia3)S;
+Console.WriteLine(aksia3);
